@@ -1,7 +1,15 @@
 # HR-Dashboard - Tableau
 Developed an interactive HR analytics dashboard in Tableau by processing 10,000+ employee records using Python and ETL workflows
 
-[HR _ Summary.png](https://github.com/Sriharshini-Ankam1/HR-Dashboard---Tableau/blob/e3080137a365422406316ee059c0e7b46d1b0a97/HR%20_%20Details.png)
+## 📊 HR Dashboard Summary
+
+![HR Summary](https://raw.githubusercontent.com/Sriharshini-Ankam1/HR-Dashboard---Tableau/main/HR%20_%20Summary.png)
+
+## 📋 HR Dashboard Details
+
+![HR Details](https://raw.githubusercontent.com/Sriharshini-Ankam1/HR-Dashboard---Tableau/main/HR%20_%20Details.png)
+
+
 
 User Story - HR Dashboard
 As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
