@@ -1,4 +1,4 @@
-# HR-Dashboard---Tableau
+# HR-Dashboard - Tableau
 Developed an interactive HR analytics dashboard in Tableau by processing 10,000+ employee records using Python and ETL workflows
 
 User Story - HR Dashboard
@@ -33,3 +33,5 @@ Employee Records View
 
 Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 Users should be able to filter the list based on any of the available columns.
+
+
